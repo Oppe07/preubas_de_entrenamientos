@@ -1,0 +1,11 @@
+# segmentation_data.yaml
+
+path: C:\proyectoCampos\pruebas_de_entrenamientos\yolo8\YOLODataset
+train: C:\proyectoCampos\pruebas_de_entrenamientos\yolo8\YOLODataset\images\train
+val: C:\proyectoCampos\pruebas_de_entrenamientos\yolo8\YOLODataset\images\val
+test: C:\proyectoCampos\pruebas_de_entrenamientos\yolo8\YOLODataset\images\test
+
+
+# Especifica las clases que tienes en el dataset
+names: 
+  0: linea
